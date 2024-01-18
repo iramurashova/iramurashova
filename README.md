@@ -3,9 +3,17 @@
 <p align='center'>
    📫 How to reach me: <a href='mailto:i@imurashova.ru'>i@imurashova.ru</a>
 </p>
+<p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=iramurashova&show_icons=true&count_private=true"><img
+           height=150
+           src="https://github-readme-stats.vercel.app/api?username=iramurashova&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/iramurashova/github-readme-stats"><img height=150
+                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=iramurashova&layout=compact"/></a>
+</p>
 
 ⚡ Skills:
 * JavaScript
+* TypeScript
 * React
 * Redux
 * Radix UI
@@ -13,4 +21,5 @@
 * Vite
 * Webpack
 * Git
+* Agile
 
